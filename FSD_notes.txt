@@ -1,0 +1,14 @@
+ctrl+shift+P: to find a certain feature:
+ *replace all occurences: to modify all the occurences of a certain text
+ *duplicate selection: to duplicate some text 
+ctrl+shift+N: new file
+Styling: in-line styling: 
+         for class: .class-div{}
+         for id: #id-div{}
+vector: a combination of image with text, you can change its filling color or its appearance easily, the most important characteristics are width, height and viewbox.
+Google font: you can get free fonts that are compatible with google, 300,400,700 usually used
+you can download, or use the link provided on the website
+check: nth child
+text-transform: uppercase to change a word from lowercase to uppercase
+font-weight: to change the size of the font
+!: important, it will apply the condition on all occurences of a certain thing.
